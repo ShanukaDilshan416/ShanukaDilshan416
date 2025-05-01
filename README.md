@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shanuka Dilshan  
 **Network Engineering Student | CCNA Enthusiast | Python & Automation**  
 
-📍 University Of Jaffna | 🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shanuka-dilshan-78b189363/))  
+📍 University Of Jaffna | 🔗 https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shanuka-dilshan-78b189363/
 
 ---
 
