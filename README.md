@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 ![Cisco](https://img.shields.io/badge/Cisco-CCNA-blue) 
 ![Python](https://img.shields.io/badge/Python-Automation-green)  
 
-![My Network Lab](https://github.com/yourusername/yourusername/blob/main/images/lab-setup.png)  
+
