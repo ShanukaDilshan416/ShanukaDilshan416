@@ -19,7 +19,7 @@
 
 ---
 
-📫 **Reach Me**: shanuka416@gmail.com | [Twitter](https://twitter.com/yourhandle)  
+📫 **Reach Me**: shanuka416@gmail.com | 
 
 ![Cisco](https://img.shields.io/badge/Cisco-CCNA-blue) 
 ![Python](https://img.shields.io/badge/Python-Automation-green)  
