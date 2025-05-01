@@ -1,13 +1,13 @@
-# 👋 Hi, I'm [Shanuka Dilshan]  
+# 👋 Hi, I'm Shanuka Dilshan  
 **Network Engineering Student | CCNA Enthusiast | Python & Automation**  
 
-📍 [University Of Jaffna] | 🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shanuka-dilshan-78b189363/))  
+📍 University Of Jaffna | 🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shanuka-dilshan-78b189363/))  
 
 ---
 
 ### 🛠️ Technical Skills  
-- **Networking**: Cisco Packet Tracer, Wireshark, VLANs, OSPF, BGP  
-- **Cloud**: AWS VPC, Docker, Basic Kubernetes  
+- **Networking**: Cisco Packet Tracer, Wireshark
+- **Cloud**: AWS
 - **Automation**: Python (Netmiko, Paramiko), Bash Scripting  
 - **Security**: Firewall Configs (pfSense), Nmap Scanning  
 
